@@ -1,0 +1,3 @@
+/Users/maya/school/CSC220/CSC220_Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/maya/school/CSC220/CSC220_Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maya/school/CSC220/CSC220_Assignment1/cmake-build-debug/CMakeFiles/CSC220_Assignment1.dir
