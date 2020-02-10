@@ -1,3 +1,6 @@
+// A mergesort function which makes three recursive calls of length n/3 on an array of size n, and then merges three sorted
+// arrays into one.
+
 #include <iostream>
 
 void merge_sort(int *a, int *aux, int length);
