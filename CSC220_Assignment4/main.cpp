@@ -1,3 +1,8 @@
+// Write code that finds a maximum flow in a directed graph, using the Ford-Fulkerson algorithm. The graph is given as adjacency matrix with cap[i][j] being
+// the capacity of the directed edge from i to j. The function received another argument, the matrix flow[][], which is used to return the flow values in the
+// maximum flow from s to t.
+
+
 //Residual Graph of a flow network is a graph which indicates additional possible flow. If there is a path from source to
 //sink in residual graph, then it is possible to add flow. Every edge of a residual graph has a value called residual
 //capacity which is equal to original capacity of the edge minus current flow. Residual capacity is basically the current
